@@ -1,6 +1,4 @@
 ## Android NumberProgressBar [![Build Status](https://travis-ci.org/daimajia/NumberProgressBar.png?branch=master)](https://travis-ci.org/daimajia/NumberProgressBar)
-
-[![Insight.io](https://insight.io/repoBadge/github.com/daimajia/NumberProgressBar)](https://insight.io/github.com/daimajia/NumberProgressBar)
 -----
 
 The NumberProgressBar is a bar, slim and sexy (every man wants! ). 
@@ -32,7 +30,7 @@ BTW. My friends also made some other platform's NumberProgressBar：
 
 ```groovy
 dependencies {
-   compile 'com.daimajia.numberprogressbar:library:1.4@aar'
+   implementation 'com.daimajia.numberprogressbar:library:1.4@aar'
 }
 ```
 
